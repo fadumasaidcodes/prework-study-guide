@@ -10,8 +10,8 @@ What does the project solve? I have learned problem-solving skills such as Pseud
 
 ## Installation
 
-Google chrome 
-Visual studio 
+Google chrome,  
+Visual studio, and 
 Github 
 
 N/A
