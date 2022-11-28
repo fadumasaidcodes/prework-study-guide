@@ -10,9 +10,9 @@ What does the project solve? I have learned problem-solving skills such as Pseud
 
 ## Installation
 
-Google chrome,  
-Visual studio, and 
-Github 
+#### Google chrome 
+#### Visual studio
+#### Github 
 
 N/A
 
