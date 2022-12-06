@@ -1,6 +1,6 @@
 
 # prework-study-guide
-
+![README](https://user-images.githubusercontent.com/102771343/205979769-9061524e-d39f-4c56-b4ba-6b794b398228.png)
 ## Description
 
 I love coding. By building this project, I will learn how to code.
